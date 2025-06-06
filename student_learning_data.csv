@@ -1,0 +1,11 @@
+student_id,topic,difficulty,score,time_spent_minutes,liked_topic,recommended_next_topic
+1,Algebra,Easy,90,15,True,Geometry
+1,Calculus,Hard,60,45,False,Algebra
+2,Geometry,Medium,85,20,True,Calculus
+2,Algebra,Easy,95,10,True,Trigonometry
+3,Calculus,Hard,50,60,False,Algebra
+3,Geometry,Medium,88,22,True,Trigonometry
+4,Trigonometry,Medium,75,30,True,Calculus
+4,Algebra,Easy,92,12,True,Geometry
+5,Calculus,Hard,55,50,False,Algebra
+5,Trigonometry,Hard,65,40,False,Calculus
